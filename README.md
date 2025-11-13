@@ -1,18 +1,20 @@
-Climate Change Analysis with Machine Learning
-Project Overview
+𝐂𝐥𝐢𝐦𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐠𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐰𝐢𝐭𝐡 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
+
 A comprehensive data science project analyzing global temperature trends using statistical methods and machine learning algorithms to model climate change patterns and build predictive forecasting systems.
 
-Dataset
-This analysis utilizes the Berkeley Earth Surface Temperature Dataset, comprising:
+𝐃𝐚𝐭𝐚𝐬𝐞𝐭
+This analysis utilizes the 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲 𝐄𝐚𝐫𝐭𝐡 𝐒𝐮𝐫𝐟𝐚𝐜𝐞 𝐓𝐞𝐦𝐩𝐞𝐫𝐚𝐭𝐮𝐫𝐞 Dataset, comprising:
 
-GlobalTemperatures.csv: Primary dataset with monthly global land temperature records (1750-2015)
+𝐆𝐥𝐨𝐛𝐚𝐥𝐓𝐞𝐦𝐩𝐞𝐫𝐚𝐭𝐮𝐫𝐞𝐬.𝐜𝐬𝐯: Primary dataset with monthly global land temperature records (1750-2015)
 
-Supplementary datasets: Country-level, state-level, and city-level temperature measurements
+𝐒𝐮𝐩𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐫𝐲 𝐝𝐚𝐭𝐚𝐬𝐞𝐭𝐬:  Country-level, state-level, and city-level temperature measurements
 
-Source: Kaggle - Climate Change: Earth Surface Temperature Data
+𝐒𝐨𝐮𝐫𝐜𝐞: Kaggle - Climate Change: Earth Surface Temperature Data
 
-Methodology
-Data Analysis
+𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲
+𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 Comprehensive exploratory data analysis with temporal trend analysis
 
 Seasonal pattern detection and geographical temperature distribution mapping
