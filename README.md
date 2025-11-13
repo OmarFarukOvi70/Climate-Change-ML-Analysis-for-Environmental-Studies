@@ -22,6 +22,7 @@ Seasonal pattern detection and geographical temperature distribution mapping
 Statistical correlation analysis between climate variables
 
 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧
+
 𝐅𝐨𝐮𝐫 𝐫𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 𝐦𝐨𝐝𝐞𝐥𝐬: Linear Regression, Decision Trees, Random Forest, Gradient Boosting
 
 Advanced feature engineering including temporal encoding and lag variables
@@ -31,6 +32,7 @@ Hyperparameter optimization using GridSearchCV with time-series cross-validation
 Model evaluation using 𝐌𝐀𝐄, 𝐑𝐌𝐒𝐄, 𝐚𝐧𝐝 𝐑² 𝐦𝐞𝐭𝐫𝐢𝐜𝐬
 
 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬
+
 Quantified global warming trends with statistical significance
 
 Identified key predictive features for temperature forecasting
@@ -40,9 +42,12 @@ Achieved high-accuracy predictive models for climate pattern analysis
 Demonstrated measurable climate change evidence through data science approaches
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
+
 bash
 pandas numpy matplotlib seaborn scikit-learn
+
 𝐔𝐬𝐚𝐠𝐞
+
 Download datasets from Kaggle source
 
 Execute main analysis script: python climate_analysis.py
@@ -50,6 +55,7 @@ Execute main analysis script: python climate_analysis.py
 Review generated visualizations and analytical reports
 
 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
+
 Climate research and environmental science
 
 Predictive modeling for temperature forecasting
